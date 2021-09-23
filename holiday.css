@@ -16,7 +16,7 @@ h2 {
   font-size: 42px;
 }
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   body {
     color: #eee;
     background: #121212;
@@ -25,5 +25,8 @@ h2 {
   body a {
     color: #809fff;
   }
+  td {
+    color: #eee;
+  }
 
-} */
+}
